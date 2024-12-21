@@ -1,5 +1,6 @@
 # verilog-punc-processor
 A comprehensive implementation of a 16-bit processor based on the LC3 (Little Computer 3) instruction set architecture, designed for FPGA deployment. This project was developed to create a fully functional stored-program computer capable of executing complex programs.
+
 Architecture Features
 - 16-bit Word Size: All data and instructions are aligned 16-bit words
 - Memory System:
